@@ -6,8 +6,7 @@ import { Buffer } from 'buffer/';
 
 @Component({
   selector: 'app-repo-content',
-  templateUrl: './settings.component.html',
-  styleUrls: ['./settings.component.css']
+  templateUrl: './settings.componentAAA.html',
 })
 export class SettingsComponent {
 
